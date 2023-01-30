@@ -1,0 +1,28 @@
+E:\Archivos\Tecnología Vocacional II\1U-TVII-GA1\1U-TVII-GA1\1U-TVII-GA1\bin\Debug\1U-TVII-GA1.exe.config
+E:\Archivos\Tecnología Vocacional II\1U-TVII-GA1\1U-TVII-GA1\1U-TVII-GA1\bin\Debug\1U-TVII-GA1.exe
+E:\Archivos\Tecnología Vocacional II\1U-TVII-GA1\1U-TVII-GA1\1U-TVII-GA1\bin\Debug\1U-TVII-GA1.pdb
+E:\Archivos\Tecnología Vocacional II\1U-TVII-GA1\1U-TVII-GA1\1U-TVII-GA1\bin\Debug\1U-TVII-GA1.xml
+E:\Archivos\Tecnología Vocacional II\1U-TVII-GA1\1U-TVII-GA1\1U-TVII-GA1\obj\Debug\1U-TVII-GA1.vbprojResolveAssemblyReference.cache
+E:\Archivos\Tecnología Vocacional II\1U-TVII-GA1\1U-TVII-GA1\1U-TVII-GA1\obj\Debug\_1U_TVII_GA1.Form1.resources
+E:\Archivos\Tecnología Vocacional II\1U-TVII-GA1\1U-TVII-GA1\1U-TVII-GA1\obj\Debug\_1U_TVII_GA1.Form2.resources
+E:\Archivos\Tecnología Vocacional II\1U-TVII-GA1\1U-TVII-GA1\1U-TVII-GA1\obj\Debug\_1U_TVII_GA1.Resources.resources
+E:\Archivos\Tecnología Vocacional II\1U-TVII-GA1\1U-TVII-GA1\1U-TVII-GA1\obj\Debug\1U-TVII-GA1.vbproj.GenerateResource.Cache
+E:\Archivos\Tecnología Vocacional II\1U-TVII-GA1\1U-TVII-GA1\1U-TVII-GA1\obj\Debug\1U-TVII-GA1.exe
+E:\Archivos\Tecnología Vocacional II\1U-TVII-GA1\1U-TVII-GA1\1U-TVII-GA1\obj\Debug\1U-TVII-GA1.xml
+E:\Archivos\Tecnología Vocacional II\1U-TVII-GA1\1U-TVII-GA1\1U-TVII-GA1\obj\Debug\1U-TVII-GA1.pdb
+E:\Archivos\Tecnología Vocacional II\1U-TVII-GA1\1U-TVII-GA1\1U-TVII-GA1\obj\Debug\_1U_TVII_GA1.Form3.resources
+E:\Archivos\Tecnología Vocacional II\1U-TVII-GA1\1U-TVII-GA1\1U-TVII-GA1\obj\Debug\_1U_TVII_GA1.Form4.resources
+C:\Users\14 Biblioteca\Downloads\1U-TVII-GA1\1U-TVII-GA1\1U-TVII-GA1\bin\Debug\1U-TVII-GA1.exe.config
+C:\Users\14 Biblioteca\Downloads\1U-TVII-GA1\1U-TVII-GA1\1U-TVII-GA1\bin\Debug\1U-TVII-GA1.exe
+C:\Users\14 Biblioteca\Downloads\1U-TVII-GA1\1U-TVII-GA1\1U-TVII-GA1\bin\Debug\1U-TVII-GA1.pdb
+C:\Users\14 Biblioteca\Downloads\1U-TVII-GA1\1U-TVII-GA1\1U-TVII-GA1\bin\Debug\1U-TVII-GA1.xml
+C:\Users\14 Biblioteca\Downloads\1U-TVII-GA1\1U-TVII-GA1\1U-TVII-GA1\obj\Debug\1U-TVII-GA1.vbprojResolveAssemblyReference.cache
+C:\Users\14 Biblioteca\Downloads\1U-TVII-GA1\1U-TVII-GA1\1U-TVII-GA1\obj\Debug\_1U_TVII_GA1.Form1.resources
+C:\Users\14 Biblioteca\Downloads\1U-TVII-GA1\1U-TVII-GA1\1U-TVII-GA1\obj\Debug\_1U_TVII_GA1.Form2.resources
+C:\Users\14 Biblioteca\Downloads\1U-TVII-GA1\1U-TVII-GA1\1U-TVII-GA1\obj\Debug\_1U_TVII_GA1.Form3.resources
+C:\Users\14 Biblioteca\Downloads\1U-TVII-GA1\1U-TVII-GA1\1U-TVII-GA1\obj\Debug\_1U_TVII_GA1.Form4.resources
+C:\Users\14 Biblioteca\Downloads\1U-TVII-GA1\1U-TVII-GA1\1U-TVII-GA1\obj\Debug\_1U_TVII_GA1.Resources.resources
+C:\Users\14 Biblioteca\Downloads\1U-TVII-GA1\1U-TVII-GA1\1U-TVII-GA1\obj\Debug\1U-TVII-GA1.vbproj.GenerateResource.Cache
+C:\Users\14 Biblioteca\Downloads\1U-TVII-GA1\1U-TVII-GA1\1U-TVII-GA1\obj\Debug\1U-TVII-GA1.exe
+C:\Users\14 Biblioteca\Downloads\1U-TVII-GA1\1U-TVII-GA1\1U-TVII-GA1\obj\Debug\1U-TVII-GA1.xml
+C:\Users\14 Biblioteca\Downloads\1U-TVII-GA1\1U-TVII-GA1\1U-TVII-GA1\obj\Debug\1U-TVII-GA1.pdb
